@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "550924798134",
+    "firebase_url": "https://runner-8b7cc.firebaseio.com",
+    "project_id": "runner-8b7cc",
+    "storage_bucket": "runner-8b7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550924798134:android:116db4f75f5f6a0f",
+        "android_client_info": {
+          "package_name": "com.stc.runner.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550924798134-h19lf2mo3nj27gvrfhcol8hpou68a4p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stc.runner.android",
+            "certificate_hash": "a6fc7ba1c0cac9489c70a916e8f9c39b31ff917e"
+          }
+        },
+        {
+          "client_id": "550924798134-qqdiv4a70kf7c4i8pfvk7lbis1lhvfuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stc.runner.android",
+            "certificate_hash": "b87bea89170c0477dbd5600fd0870943b5d33fad"
+          }
+        },
+        {
+          "client_id": "550924798134-tbn6ejrmnjjqkhc3rsr4mc3tnfbk32a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtJYP1WjoRhcFek6CvhZ0yABeAzrjRLig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550924798134-tbn6ejrmnjjqkhc3rsr4mc3tnfbk32a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
